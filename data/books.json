@@ -1,0 +1,42 @@
+[
+	{
+		"_id": "5d713995b721c3bb38c1f5d0",
+		"user": "5d7a514b5d2c12c7449be045",
+		"name": "Bulbulu Oldurmek",
+		"author":"Harper Lee",
+		"housing": true,
+		"jobAssistance": true,
+		"jobGuarantee": false,
+		"acceptGi": true
+	},
+	{
+		"_id": "5d713a66ec8f2b88b8f830b8",
+		"user": "5d7a514b5d2c12c7449be046",
+		"name": "Suc Ve Ceza",
+		"author":"Fyodor Dostoyevski",
+		"housing": false,
+		"jobAssistance": true,
+		"jobGuarantee": false,
+		"acceptGi": true
+	},
+	{
+		"_id": "5d725a037b292f5f8ceff787",
+		"user": "5c8a1d5b0190b214360dc031",
+		"name": "Clean Code",
+		"author":"Robert Cecil Martin",
+		"housing": false,
+		"jobAssistance": false,
+		"jobGuarantee": false,
+		"acceptGi": false
+	},
+	{
+		"_id": "5d725a1b7b292f5f8ceff788",
+		"user": "5c8a1d5b0190b214360dc032",
+		"name": "Code Complete",
+		"author":"Steve McConnell",
+		"housing": false,
+		"jobAssistance": true,
+		"jobGuarantee": true,
+		"acceptGi": true
+	}
+]
